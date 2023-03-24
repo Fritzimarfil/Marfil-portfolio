@@ -1,0 +1,66 @@
+.nav-item {
+	font-family: 'Poppins', sans-serif;
+}
+#landing {
+	/*font-family: 'Outfit', sans-serif;*/
+	background-image: linear-gradient(rgba(0, 0, 255, 0.3), rgba(50, 48, 70, 1)), url(https://wallpapercave.com/wp/h6YhDhC.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat
+}
+/*#container-bg {
+background-color: rgb(0, 0, 0, 0.5);
+}*/
+
+#myname {
+	font-family: 'Outfit', sans-serif;
+}
+
+#text {
+	font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron {
+	padding: 2rem 1rem;
+	margin-bottom: 2rem;
+	background-color: gray;
+	border-radius: 0.3rem;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+#projects {
+	font-family: 'Outfit', sans-serif;
+	font-style: bold;
+	font-size: 40px;
+	color: orange;
+}
+
+#logos {
+	font-family: 'Outfit', sans-serif;
+	color: orange;
+	font-size: 40px;
+	font-style: bold;
+}
+
+#tools {
+	background-color: skyblue;
+	background-image: linear-gradient(rgba(0, 0, 255, 0.3), rgba(50, 48, 70, 1)), url(https://rare-gallery.com/uploads/posts/351323-4k-wallpaper.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#contactme {
+	font-family: 'Outfit', sans-serif;
+	color: orange;
+	font-size: 40px;
+	font-style: bold;
+}
+
+#footer {
+	font-family: 'Poppins', sans-serif;
+	color: gray;
+}
